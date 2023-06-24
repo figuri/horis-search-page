@@ -12,7 +12,7 @@
 
 ## **Description:**
 ---
-[Visit the Deployed Site]()
+[Visit the Deployed Site](https://figuri.github.io/horis-search-page/)
 
 ### **-What is this project?**
 
