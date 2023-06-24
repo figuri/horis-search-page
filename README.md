@@ -8,4 +8,8 @@ so that their site is optimized for search engines.
 ## Acceptance Criteria:
  Code follows a logical structure with appropriate semantic elements
  
- Code is organized
+ Elements fall in a sequential order
+
+ Title is concise and descriptive
+
+ 
