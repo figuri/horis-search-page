@@ -12,4 +12,6 @@ so that their site is optimized for search engines.
 
  Title is concise and descriptive
 
- 
+ Alt attributes added so blind users can hear descriptions of images via a screen reader 
+
+
